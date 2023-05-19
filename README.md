@@ -44,8 +44,7 @@
 
 ## :mailbox: Connect with me
 <p align="center">
-    <a href="linkedin.com/in/guillermoa-rodriguezs">
-    <a href="linkedin.com/in/guillermoa-rodriguezs" target="_blank">
+    <a href="linkedin.com/in/guillermoa-rodriguezs/" target="_blank">
       <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
     </a>
     &emsp; 
