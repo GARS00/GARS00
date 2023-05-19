@@ -55,11 +55,11 @@
 💻 GitHub Profile Stats
   <br/>
   <p align="center">
-      <a href="https://github.com/GARS00/github-readme-stats"><img alt="GARS00 Github Stats" src="https://github-readme-stats.vercel.app/api?username=albegosu&show_icons=true&count_private=true&theme=chalk" height="192px"/></a>
+      <a href="https://github.com/GARS00/github-readme-stats"><img alt="GARS00 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GARS00&show_icons=true&count_private=true&theme=chalk" height="192px"/></a>
   </p>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albegosu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="albegosu" height="192px"/></p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GARS00&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="GARS00" height="192px"/></p>
   </p>
 -----
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=albegosu" alt="elegarmi" /> 
+	<img src="https://komarev.com/ghpvc/?username=GARS00" alt="GARS00" /> 
