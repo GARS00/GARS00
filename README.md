@@ -44,22 +44,18 @@
 
 ## :mailbox: Connect with me
 <p align="center">
-    <a href="https://www.linkedin.com/in/alberto-glez-3a50277a/">
-    <a href="https://www.linkedin.com/in/alberto-glez-3a50277a/" target="_blank">
+    <a href="linkedin.com/in/guillermoa-rodriguezs/">
+    <a href="linkedin.com/in/guillermoa-rodriguezs/" target="_blank">
       <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
     </a>
     &emsp; 
-    <a href="https://www.instagram.com/albert0glez/">
-    <a href="https://www.instagram.com/albert0glez/" target="_blank">
-      <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"/>
-    </a>
 </p>
 <br/>
 ## 📊 Github Stats
 💻 GitHub Profile Stats
   <br/>
   <p align="center">
-      <a href="https://github.com/albegosu/github-readme-stats"><img alt="elegarmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=albegosu&show_icons=true&count_private=true&theme=chalk" height="192px"/></a>
+      <a href="https://github.com/GARS00/github-readme-stats"><img alt="GARS00 Github Stats" src="https://github-readme-stats.vercel.app/api?username=albegosu&show_icons=true&count_private=true&theme=chalk" height="192px"/></a>
   </p>
   <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albegosu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="albegosu" height="192px"/></p>
